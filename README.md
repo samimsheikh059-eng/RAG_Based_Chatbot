@@ -1,4 +1,4 @@
-
+cartoon, blurry, unrealistic, bad hands, low resolution, distorted animal
 # 🧠 RAG-Based Chatbot
 
 A **Retrieval-Augmented Generation (RAG)** chatbot built using **LLaMA3**, **Gradio**, and **FAISS**, designed to intelligently respond to user queries using uploaded PDF documents as a knowledge base. It supports multilingual interaction and voice responses for a hands-free experience.
